@@ -48,7 +48,7 @@ You can find our [Roadmap](https://github.com/orgs/arc53/projects/2) here, pleas
 
 - Scripts - script that creates similarity search index and store for other libraries. 
 
-- frontend - frontend in vite and
+- frontend - frontend in vite and '_____'. <?>
 
 ## QuickStart
 
